@@ -77,7 +77,7 @@
   <a href="https://www.fiverr.com/hannanofx" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
   </a>
-  <a href="https://www.instagram.com/hannanofx" target="_blank">
+  <a href="https://www.instagram.com/hannan.ofx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
