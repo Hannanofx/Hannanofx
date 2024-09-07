@@ -10,10 +10,6 @@
 <div align="center">
   <table>
     <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-    </tr>
-    <tr>
       <td>
         <p align="center">
           <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
