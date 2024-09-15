@@ -50,12 +50,6 @@
   <a href="https://visualstudio.microsoft.com/vs/" target="_blank">
     <img src="https://img.shields.io/badge/VS%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS 2022">
   </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator">
-  </a>
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-  </a>
 </p>
 
 ### Collaboration
