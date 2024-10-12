@@ -28,6 +28,9 @@
           <a href="https://isocpp.org/" target="_blank">
             <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
           </a>
+          <a href="https://golang.org/" target="_blank">
+            <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+          </a>
         </p>
 </div>
 
