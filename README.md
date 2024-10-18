@@ -62,3 +62,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
+## 📊 GitHub Stats
+
+![Hannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannanofx&show_icons=true&theme=radical)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hannanofx&layout=compact&theme=radical)](https://github.com/Hannanofx/github-readme-stats)
