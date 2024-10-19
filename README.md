@@ -1,4 +1,6 @@
+<div align="center">
 ![Profile views](https://komarev.com/ghpvc/?username=Hannanofx)
+</div>
 <div align="center">
   <h1 style="color:#4CAF50;">@Hannanofx's README</h1>
   <p>Hi! I'm <strong>@Hannanofx</strong>, a teenager interested in web programming and software development. Here's a brief overview of what you'll find in this README:</p>
